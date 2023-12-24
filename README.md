@@ -1,6 +1,6 @@
 # drift_tutorial
 
-A new Flutter project.
+A simple notes app using a dirft(moor) to saved the notes in the local storage,
 
 ## Getting Started
 
